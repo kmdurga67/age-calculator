@@ -15,7 +15,7 @@ Before you get started, ensure you have the following tools installed on your ma
  https://github.com/kmdurga67/age-calculator.git
 
 2. Change into the project directory:
-cd 
+cd age-calculator
 
 ### For Frontend
 
